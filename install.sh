@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 apt-get update && apt-get upgrade -y
 apt install apt-transport-https ca-certificates curl software-properties-common -y
